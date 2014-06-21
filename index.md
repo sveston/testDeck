@@ -43,7 +43,7 @@ $$A = 1500(1 + 0.04)^6 = 1897.979$$
 So, the balance after 6 years is approximately $1,897.979.
 
 --- &radio
-## Question 1
+## Question
 
 An amount of $2,000.00 is deposited in a bank paying an annual interest rate of 5%. What is the balance after 20 years?
 
